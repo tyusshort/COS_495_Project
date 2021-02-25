@@ -1,2 +1,2 @@
-# COS_435_Project
-A repository for our COS 435 Team Project.
+# COS_495_Project
+A repository for our COS 495 Team Project.

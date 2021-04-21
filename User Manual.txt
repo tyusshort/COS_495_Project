@@ -1,2 +1,11 @@
-Purpose
+General Information (Talk about what kind of game it is, the purpose of the game, talk about the software we used)
 ----------------------
+Refer to this: https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner/?tab=overview&uv=2020.2 and https://forum.unity.com/threads/john-lemons-haunted-jaunt-3d-beginner-official-thread.661834/
+
+Controls
+----------------------
+W- Up
+A- Left
+S- Down
+D- Right
+
